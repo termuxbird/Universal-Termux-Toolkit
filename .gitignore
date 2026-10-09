@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.email_tool_accounts.json
+*.sock
+.DS_Store
+*.log
